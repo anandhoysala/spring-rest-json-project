@@ -1,0 +1,27 @@
+[{"qno":"1", "question":"What are Streams in java8 ?"},
+{"qno":"2", "question": "Write a program to get all the records whose age > 30 using java streams?"},
+{"qno":"3", "question": "Given a string 'aaabbaccaayicp', count the number of 'a' in the string using java 8 features ?"},
+{"qno":"4", "question": "What is @FunctionalInterface in java 8 ?"},
+{"qno":"5", "question": "What is the difference between Monolith & Microservices application ?"},
+{"qno":"6", "question": "What is the difference between compareTo & compare method ?"},
+{"qno":"7", "question": "Sort on 2 fields say for example you have Employee class, Need to sort on getName/getAge using java 8 ?"},
+{"qno":"8", "question": "What is the difference between @Controller & @RestController ?"},
+{"qno":"9", "question": "What is the difference between git fetch & git pull ?"},
+{"qno":"10", "question": "What was your toughfest challenge in building Spring microservices ?"},
+{"qno":"11", "question": "How do you trace logs in Spring microservices ?"},
+{"qno":"12", "question": "What is Spring cloud sleuth ?"},
+{"qno":"13", "question": "What is ZipKin server ?"},
+{"qno":"14", "question": "I have 4 different microservices each microservice has different log settings log.debug, log.warn, log.error, log.info. How do you manage ?"},
+{"qno":"15", "question": "When will you go for Sprint and when will you go for Kanban ?"},
+{"qno":"16", "question": "Explain me the architecture of uber application ?"},
+{"qno":"17", "question": "What code coverage tools you have used, Code coverge SonarCube, Checkstyle & PMD ?"},
+{"qno":"18", "question": "Why spring boot in your project ?"},
+{"qno":"19", "question": "How spring boot configures itself ?"},
+{"qno":"20", "question": "What is starter jars ?"},
+{"qno":"21", "question": "What else we need to write in spring boot ?"},
+{"qno":"22", "question": "How will you differenciated between @Component, @Service, @Repository, @Controller in spring boot ?"},
+{"qno":"23", "question": "If I mark the @Service annotation with @Component will it work ?"},
+{"qno":"24", "question": "Spring JTA, Use of Tranasctions in spring boot ?"}
+]
+
+

@@ -1,0 +1,27 @@
+[{"questions":{"qno":"1", "question-":"What are Streams in java8 ?"}},
+{"questions":{"qno":"2", "question-": "Write a program to get all the records whose age > 30 using java streams?"}},
+{"questions":{"qno":"3", "question-": "Given a string 'aaabbaccaayicp', count the number of 'a' in the string using java 8 features ?"}},
+{"questions":{"qno":"4", "question-": "What is @FunctionalInterface in java 8 ?"}},
+{"questions":{"qno":"5", "question-": "What is the difference between Monolith & Microservices application ?"}},
+{"questions":{"qno":"6", "question-": "What is the difference between compareTo & compare method ?"}},
+{"questions":{"qno":"7", "question-": "Sort on 2 fields say for example you have Employee class, Need to sort on getName/getAge using java 8 ?"}},
+{"questions":{"qno":"8", "question-": "What is the difference between @Controller & @RestController ?"}},
+{"questions":{"qno":"9", "question-": "What is the difference between git fetch & git pull ?"}},
+{"questions":{"qno":"10", "question-": "What was your toughfest challenge in building Spring microservices ?"}},
+{"questions":{"qno":"11", "question-": "How do you trace logs in Spring microservices ?"}},
+{"questions":{"qno":"12", "question-": "What is Spring cloud sleuth ?"}},
+{"questions":{"qno":"13", "question-": "What is ZipKin server ?"}},
+{"questions":{"qno":"14", "question-": "I have 4 different microservices each microservice has different log settings log.debug, log.warn, log.error, log.info. How do you manage ?"}},
+{"questions":{"qno":"15", "question-": "When will you go for Sprint and when will you go for Kanban ?"}},
+{"questions":{"qno":"16", "question-": "Explain me the architecture of uber application ?"}},
+{"questions":{"qno":"17", "question-": "What code coverage tools you have used, Code coverge SonarCube, Checkstyle & PMD ?"}},
+{"questions":{"qno":"18", "question-": "Why spring boot in your project ?"}},
+{"questions":{"qno":"19", "question-": "How spring boot configures itself ?"}},
+{"questions":{"qno":"20", "question-": "What is starter jars ?"}},
+{"questions":{"qno":"21", "question-": "What else we need to write in spring boot ?"}},
+{"questions":{"qno":"22", "question-": "How will you differenciated between @Component, @Service, @Repository, @Controller in spring boot ?"}},
+{"questions":{"qno":"23", "question-": "If I mark the @Service annotation with @Component will it work ?"}},
+{"questions":{"qno":"24", "question-": "Spring JTA, Use of Tranasctions in spring boot ?"}}
+]
+
+
